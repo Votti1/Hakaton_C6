@@ -3,11 +3,11 @@
 
 #include <stdint.h>
 
-constexpr char wifi_ssid[] = "YOUR_SSID";      // Имя вашей Wi-Fi сети
-constexpr char wifi_pass[] = "YOUR_PASSWORD";      // Пароль вашей Wi-Fi сети
+constexpr char wifi_ssid[] = "HONOR X6";      // Имя вашей Wi-Fi сети
+constexpr char wifi_pass[] = "11111111";      // Пароль вашей Wi-Fi сети
 
 constexpr char ts_host[]   = "api.thingspeak.com"; // Сервер ThingSpeak
-constexpr char ts_key[]    = "YOUR_API_KEY";   // Ваш API ключ для записи в канал ThingSpeak
+constexpr char ts_key[]    = "UWRUCKEFA0VXVNOM";   // Ваш API ключ для записи в канал ThingSpeak
 
 constexpr uint8_t pin_dht_water = 5;  // Пин датчика температуры воды (D1)
 constexpr uint8_t pin_dht_oil   = 10;  // Пин датчика температуры масла (D2)

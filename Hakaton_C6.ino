@@ -37,25 +37,27 @@ void loop() {
     float t_water = dht_water.readTemperature();
     float t_oil   = dht_oil.readTemperature();
 
-    if (isnan(t_water) || isnan(t_oil)) {
+    if (isnan(t_water) || isnan(t_oil)) { //проверка работы датчиков
       Serial.println(F("Error reading from DHT sensor!"));
       SetColor(true, true);
     } else {
-      const float dT_water = CalcSlope(prev_water, prev_read_ms, t_water, now);
-      const float dT_oil   = CalcSlope(prev_oil,   prev_read_ms, t_oil,   now);
-      const float hottest  = max(t_water, t_oil);
+      const float dT_water = CalcSlope(prev_water, prev_read_ms, t_water, now); // dTw/dt
+      const float dT_oil   = CalcSlope(prev_oil,   prev_read_ms, t_oil,   now); // dTo/dt
+      const float hottest  = max(t_water, t_oil); 
 
-      const float fan_rpm  = ComputeFanRpm(hottest);
+      const float fan_rpm  = ComputeFanRpm(hottest); // выщет данных
       const float pump_lpm = ComputePumpLpm(hottest);
 
       Serial.printf("Water: %.1f°C | Oil: %.1f°C | Fan: %.0f RPM | Pump: %.1f L/min | dTw: %.3f°C/s | dTo: %.3f°C/s\n",
                     t_water, t_oil, fan_rpm, pump_lpm, dT_water, dT_oil);
 
-      if (hottest >= temp_crit) {
+        if (hottest >= temp_crit) { // проверка на перегрев
         BlinkFastRed();
-      } else if (hottest >= temp_norm) {
+        Serial.println("Перегрев двигател");
+      } else if (hottest >= temp_norm) { // приближенные крайние условия
+        Serial.println("Температра двигателя близится к перегреву");
         SetColor(true, false);
-      } else {
+      } else { // все хорошо
         SetColor(false, true);
       }
 
@@ -63,7 +65,7 @@ void loop() {
       prev_oil     = t_oil;
       prev_read_ms = now;
 
-      if (WiFi.status() == WL_CONNECTED && (now - prev_push_ms >= push_every_ms)) {
+      if (WiFi.status() == WL_CONNECTED && (now - prev_push_ms >= push_every_ms)) { //подключение к Thingspiak
          sendDataToThingSpeak(t_water, t_oil, fan_rpm, pump_lpm);
          prev_push_ms = now;
       }

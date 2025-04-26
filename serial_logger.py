@@ -1,12 +1,15 @@
-import serial
+from serial import Serial
 from datetime import datetime
 
-PORT     = 'COM5'
+#Этот скрип предназначен для логирования с Ардуино
+
+#напишите свои данные
+PORT     = 'COM5' 
 BAUDRATE = 9600
 OUTFILE  = 'log.csv'
 
 def main():
-    with serial.Serial(PORT, BAUDRATE, timeout=1) as ser, \
+    with Serial(PORT, BAUDRATE, timeout=1) as ser, \
          open(OUTFILE, 'a', buffering=1) as f:
         print(f'Записываю данные из {PORT} в {OUTFILE} …')
         while True:

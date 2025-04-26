@@ -3,7 +3,7 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
-void setupWiFi() {
+void setupWiFi() { //подключение по WiFi
   WiFi.begin(wifi_ssid, wifi_pass);
   Serial.print(F("Connecting to Wi-Fi"));
   uint8_t wifi_tries = 0;
@@ -22,7 +22,7 @@ void setupWiFi() {
   }
 }
 
-void sendDataToThingSpeak(float t_water, float t_oil, float fan_rpm, float pump_lpm) {
+void sendDataToThingSpeak(float t_water, float t_oil, float fan_rpm, float pump_lpm) { //отправка данных
   if (WiFi.status() != WL_CONNECTED) {
     Serial.println(F("WiFi disconnected. Cannot send data."));
     return;

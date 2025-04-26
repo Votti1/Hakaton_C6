@@ -3,14 +3,14 @@
 #include "utils.h"
 #include <math.h>
 
-float ComputeFanRpm(float hottest_temp) {
+float ComputeFanRpm(float hottest_temp) { //вычисления оборотов у охлаждающей системы
   const float delta = std::max(0.0f, hottest_temp - temp_norm);
   const int   steps = static_cast<int>(delta / 5.0f);
   const float set_rps = rpm_min / 60.0f + steps * fan_rps_per_5deg;
   return Clamp(set_rps * 60.0f, rpm_min, rpm_max);
 }
 
-float ComputePumpLpm(float hottest_temp) {
+float ComputePumpLpm(float hottest_temp) { //выщет мощности передачи 1литра воды в 1 секунду
   const float delta = std::max(0.0f, hottest_temp - temp_norm);
   const int   steps = static_cast<int>(delta / 5.0f);
   const float set_lps = lpm_min / 60.0f + steps * pump_lps_per_5deg;
