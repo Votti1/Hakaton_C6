@@ -1,8 +1,9 @@
 #include "utils.h"
 #include "config.h"
+#include <Arduino.h>
 #include <math.h>
 
-void setupUtils() {
+void SetupUtils() {
   pinMode(pin_rgb_r, OUTPUT);
   pinMode(pin_rgb_g, OUTPUT);
   SetColor(false, false);
