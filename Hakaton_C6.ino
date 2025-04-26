@@ -7,7 +7,6 @@
 #include "control.h"
 #include "network.h"
 #include "sensors.h"
-#include "logger.h"
 
 DHT dht_water(pin_dht_water, DHT11);
 DHT dht_oil(pin_dht_oil, DHT11);
@@ -19,7 +18,6 @@ float    prev_oil     = NAN;
 
 void setup() {
   Serial.begin(9600);
-  Logger::begin();
   Serial.println(F("\n\nTemperature Monitor Starting..."));
 
   setupUtils();
@@ -60,8 +58,6 @@ void loop() {
       } else {
         SetColor(false, true);
       }
-
-      Logger::log(millis(), t_water, t_oil, fan_rpm, pump_lpm, dT_water, dT_oil);
 
       prev_water   = t_water;
       prev_oil     = t_oil;
