@@ -70,3 +70,7 @@
 9.  Проверьте данные на ThingSpeak.
 10. Создать файл log.csv.
 11. Запустить serial_log.py для логирования
+
+## Ссылка на Thingspeak
+
+https://thingspeak.mathworks.com/channels/2935390

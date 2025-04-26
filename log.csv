@@ -504,3 +504,212 @@ Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0V
 Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
 Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
 Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.8&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1183
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.8&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1184
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.8&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1185
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: -0.050°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.7&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1186
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.7&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1187
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.7&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1188
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.7&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1189
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.050°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.8&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1190
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.8&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1191
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.8&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1192
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.8&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1193
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.8&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1194
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=25.8&field2=25.8&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1195
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 25.8°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.199°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=26.2&field2=25.8&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1196
+Water: 26.2°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.8°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: -0.050°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=26.2&field2=25.7&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1197
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=26.2&field2=25.7&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1198
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=26.2&field2=25.7&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1199
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=26.2&field2=25.7&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1200
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Sending data to ThingSpeak: http://api.thingspeak.com/update?api_key=UWRUCKEFA0VXVNOM&field1=26.2&field2=25.7&field3=500&field4=8.0
+[HTTP] GET... code: 200
+[HTTP] Response: 1201
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
+Water: 26.2°C | Oil: 25.7°C | Fan: 500 RPM | Pump: 8.0 L/min | dTw: 0.000°C/s | dTo: 0.000°C/s
