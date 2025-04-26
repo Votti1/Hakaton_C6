@@ -3,7 +3,7 @@
 #include <Arduino.h>
 #include <math.h>
 
-void SetupUtils() {
+void setupUtils() {
   pinMode(pin_rgb_r, OUTPUT);
   pinMode(pin_rgb_g, OUTPUT);
   SetColor(false, false);

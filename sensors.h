@@ -6,6 +6,6 @@
 extern DHT dht_water;
 extern DHT dht_oil;
 
-void SetupSensors(void);
+void setupSensors(void);
 
 #endif
